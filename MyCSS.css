@@ -1,0 +1,18 @@
+.word {
+    font-size: 60px;
+    width: 40%;
+    display: inline;
+    margin-left: 15px;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue);
+    color: transparent;
+    text-align: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+#p {
+    width: 24%;
+    display: block;
+    border-left: 12px red solid;
+    border-bottom: 12px purple solid;
+}
